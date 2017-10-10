@@ -10,7 +10,7 @@
     "smartcheckout"
   ],
   "builders": {
-    "service-js": "0.x"
+    "service-js": "1.x"
   },
   "scripts": {
     "postreleasy": "vtex publish"

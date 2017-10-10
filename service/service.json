@@ -4,5 +4,17 @@
   "runtimeArgs": [
     "--optimize_for_size",
     "--max_old_space_size=48"
-  ]
+  ],
+  "routes": {
+    "printHelloWorld": {
+      "path": "/api/vtex/hello",
+      "public": true
+    }
+  },
+  "events": {
+    "onAppsLinked": {
+      "sender": "apps",
+      "keys": ["linked"]
+    }
+  }
 }

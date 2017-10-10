@@ -1,7 +1,7 @@
 {
   "name": "service-getting-started",
   "vendor": "vtex",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "title": "Getting Started with Service",
   "description": "A hello world app using VTEX IO service",
   "categories": [],

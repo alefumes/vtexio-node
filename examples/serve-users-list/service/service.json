@@ -1,0 +1,13 @@
+{
+  "memory": 256,
+  "ttl": 60,
+  "timeout": 20,
+  "routes": {
+    "user": {
+      "path": "/query/user"
+    },
+    "list": {
+      "path": "/query/list"
+    }
+  }
+}

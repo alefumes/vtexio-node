@@ -1,0 +1,8 @@
+{
+    "name": "vtex.sample-app",
+    "version": "1.0.0",
+    "dependencies": {
+      "co-body": "^4.2.0",
+      "ts-node": "^2.0.0"
+    }
+}

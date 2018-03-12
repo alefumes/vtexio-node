@@ -1,6 +1,6 @@
-# Service Getting Started
+# Node Getting Started
 
-A quick start app using the service-js builder for building back end apps.
+A quick start app using the node builder for crafting back end apps.
 
 First, install the VTEX Toolbelt and login:
 

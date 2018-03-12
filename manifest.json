@@ -1,5 +1,5 @@
 {
-  "name": "service-getting-started",
+  "name": "node-getting-started",
   "vendor": "vtex",
   "version": "0.3.0",
   "title": "Getting Started with Service",
@@ -10,7 +10,7 @@
     "smartcheckout"
   ],
   "builders": {
-    "service-js": "1.x"
+    "node": "3.x"
   },
   "scripts": {
     "postreleasy": "vtex publish"

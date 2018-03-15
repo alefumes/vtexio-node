@@ -1,6 +1,0 @@
-# TERMS
-
-## TERMS
-
-### TERMS
-

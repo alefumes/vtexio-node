@@ -1,4 +1,0 @@
-type Query{
-    user(name: String="a"): User
-    list: [User]
-}

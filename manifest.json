@@ -13,6 +13,7 @@
     "node": "3.x"
   },
   "scripts": {
-    "postreleasy": "vtex publish"
+    "prereleasy": "bash lint.sh",
+    "postreleasy": "vtex publish --public --verbose"
   }
 }

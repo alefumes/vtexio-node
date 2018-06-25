@@ -1,9 +1,9 @@
 {
   "stack": "nodejs",
-  "memory": 64,
+  "memory": 128,
   "runtimeArgs": [
     "--optimize_for_size",
-    "--max_old_space_size=48"
+    "--max_old_space_size=96"
   ],
   "routes": {
     "printHelloWorld": {

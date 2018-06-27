@@ -14,6 +14,6 @@
   },
   "scripts": {
     "prereleasy": "bash lint.sh",
-    "postreleasy": "vtex publish --public --verbose"
+    "postreleasy": "vtex publish --verbose"
   }
 }

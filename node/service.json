@@ -1,13 +1,9 @@
 {
   "stack": "nodejs",
   "memory": 128,
-  "runtimeArgs": [
-    "--optimize_for_size",
-    "--max_old_space_size=96"
-  ],
   "routes": {
     "printHelloWorld": {
-      "path": "/api/vtex/hello",
+      "path": "/_v/private/api/hello",
       "public": true
     }
   },

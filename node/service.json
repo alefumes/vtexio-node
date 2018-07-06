@@ -3,7 +3,7 @@
   "memory": 128,
   "routes": {
     "printHelloWorld": {
-      "path": "/_v/private/api/hello",
+      "path": "/_v/private/hello/world",
       "public": true
     }
   },

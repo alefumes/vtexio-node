@@ -1,7 +1,7 @@
 {
   "name": "node-getting-started",
   "vendor": "vtex",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "title": "Getting Started with Service",
   "description": "A hello world app using VTEX IO service",
   "categories": [],
